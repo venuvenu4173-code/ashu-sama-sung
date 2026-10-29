@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 420" width="100%" height="100%">
+  <defs>
+    <linearGradient id="swooshIcon" x1="0%" y1="85%" x2="100%" y2="15%">
+      <stop offset="0%" stop-color="#A6731B" />
+      <stop offset="30%" stop-color="#C89438" />
+      <stop offset="65%" stop-color="#E2B755" />
+      <stop offset="100%" stop-color="#B98528" />
+    </linearGradient>
+    <linearGradient id="dotIcon" x1="20%" y1="20%" x2="85%" y2="85%">
+      <stop offset="0%" stop-color="#F3DC9B" />
+      <stop offset="45%" stop-color="#C89438" />
+      <stop offset="100%" stop-color="#966415" />
+    </linearGradient>
+    <filter id="glowIcon" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#C89438" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <g transform="translate(-230, -50)">
+    <circle cx="316" cy="102" r="26" fill="url(#dotIcon)" filter="url(#glowIcon)"/>
+    <path d="M 284 146 C 298 148 302 154 302 172 L 302 334 C 302 352 298 358 284 360 L 284 367 L 348 367 L 348 360 C 334 358 330 352 330 334 L 330 172 C 330 154 334 148 348 146 L 348 139 L 284 139 Z" fill="#152238" />
+    <path d="M 436 94 L 442 106 L 380 334 C 374 348 368 354 352 357 L 352 364 L 406 364 L 406 357 C 394 355 390 348 394 334 L 416 250 L 434 182 Z" fill="#152238" />
+    <path d="M 436 94 L 443 108 L 526 334 C 532 350 538 356 554 358 L 554 365 L 484 365 L 484 358 C 496 356 500 350 494 334 L 470 268 L 442 182 Z" fill="#152238" />
+    <path d="M 276 365 C 298 342 332 308 382 268 C 438 222 512 199 634 193 C 682 191 708 194 716 195 C 696 205 642 220 578 241 C 494 269 420 318 340 367 Z" fill="url(#swooshIcon)" filter="url(#glowIcon)"/>
+  </g>
+</svg>

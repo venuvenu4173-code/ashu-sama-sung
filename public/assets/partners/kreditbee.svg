@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="100%" height="100%">
+    <g transform="translate(15, 12)">
+      <!-- Bee wing with heart center -->
+      <path d="M 32 20 C 44 8 62 14 62 30 C 62 46 44 58 32 64 C 20 58 2 46 2 30 C 2 14 20 8 32 20 Z" fill="#1E293B" stroke="#475569" stroke-width="1.5"/>
+      <circle cx="12" cy="14" r="3.5" fill="#FACC15"/>
+      <circle cx="22" cy="8" r="4" fill="#FACC15"/>
+      <path d="M 32 30 C 38 22 48 26 48 34 C 48 42 38 48 32 52 C 26 48 16 42 16 34 C 16 26 26 22 32 30 Z" fill="#FACC15"/>
+      <text x="76" y="52" font-family="'Plus Jakarta Sans', sans-serif" font-size="34" font-weight="800" fill="#FFFFFF">Kredit<tspan fill="#FACC15">Bee</tspan></text>
+    </g>
+  </svg>

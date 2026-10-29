@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="100%" height="100%">
+    <g transform="translate(15, 14)">
+      <!-- HDFC blue square with red cross -->
+      <rect x="8" y="14" width="44" height="44" fill="#004C8F"/>
+      <rect x="24" y="14" width="12" height="44" fill="#ED1C24"/>
+      <rect x="8" y="30" width="44" height="12" fill="#ED1C24"/>
+      <rect x="24" y="30" width="12" height="12" fill="#004C8F"/>
+      <text x="64" y="44" font-family="'Plus Jakarta Sans', sans-serif" font-size="26" font-weight="900" fill="#FFFFFF" letter-spacing="1">HDFC BANK</text>
+    </g>
+  </svg>

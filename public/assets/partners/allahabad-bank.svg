@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="100%" height="100%">
+    <g transform="translate(15, 14)">
+      <polygon points="30,14 10,50 50,50" fill="none" stroke="#00A0DF" stroke-width="5" stroke-linejoin="round"/>
+      <circle cx="30" cy="38" r="5" fill="#00A0DF"/>
+      <text x="62" y="44" font-family="'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="900" fill="#FFFFFF">Allahabad Bank</text>
+    </g>
+  </svg>

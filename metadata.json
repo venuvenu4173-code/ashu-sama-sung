@@ -1,0 +1,6 @@
+{
+  "name": "Isha Associates",
+  "description": "Isha Associates provides trusted financial solutions and loan assistance for Personal, Business, Home, and Vehicle loans across Vijayawada, Nellore, and Kavali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

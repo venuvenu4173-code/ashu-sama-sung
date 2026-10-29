@@ -1,0 +1,56 @@
+import { BranchInfo } from '../types';
+
+export const BRANCHES: BranchInfo[] = [
+  {
+    id: 'vijayawada',
+    name: 'Vijayawada',
+    isMainBranch: true,
+    addressLines: [
+      'Cooperative Bank Colony,',
+      'Moghalrajpuram,',
+      'Vijayawada,',
+      'Andhra Pradesh - 520010',
+    ],
+    city: 'Vijayawada',
+    state: 'Andhra Pradesh',
+    pincode: '520010',
+    phone: '9052802898',
+    phoneRaw: '+919052802898',
+    mapQueryUrl: 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent('Isha Associates Cooperative Bank Colony Moghalrajpuram Vijayawada Andhra Pradesh 520010'),
+  },
+  {
+    id: 'nellore',
+    name: 'Nellore',
+    isMainBranch: false,
+    addressLines: [
+      '1st Floor Near Annamayya Circle,',
+      'Magunta Layout,',
+      'Nellore,',
+      'Andhra Pradesh - 524003',
+    ],
+    city: 'Nellore',
+    state: 'Andhra Pradesh',
+    pincode: '524003',
+    phone: '9052802898',
+    phoneRaw: '+919052802898',
+    mapQueryUrl: 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent('1st Floor Near Annamayya Circle Magunta Layout Nellore Andhra Pradesh 524003'),
+  },
+  {
+    id: 'kavali',
+    name: 'Kavali',
+    isMainBranch: false,
+    addressLines: [
+      'GD Complex,',
+      'Opposite RTC Bus Stand,',
+      'Trunk Road,',
+      'Kavali,',
+      'Andhra Pradesh - 524201',
+    ],
+    city: 'Kavali',
+    state: 'Andhra Pradesh',
+    pincode: '524201',
+    phone: '9052802898',
+    phoneRaw: '+919052802898',
+    mapQueryUrl: 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent('GD Complex Opposite RTC Bus Stand Trunk Road Kavali Andhra Pradesh 524201'),
+  },
+];

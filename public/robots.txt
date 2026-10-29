@@ -1,0 +1,6 @@
+# robots.txt for Isha Associates
+User-agent: *
+Allow: /
+
+# XML Sitemap Location
+Sitemap: https://ishaassociates.com/sitemap.xml

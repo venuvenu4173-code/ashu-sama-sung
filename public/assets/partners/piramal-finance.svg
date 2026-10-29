@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="100%" height="100%">
+    <g transform="translate(15, 12)">
+      <!-- Flame emblem -->
+      <path d="M 32 68 C 18 68 12 52 14 38 C 16 28 24 16 30 6 C 28 18 36 26 38 32 C 40 22 46 14 54 8 C 50 20 54 28 58 35 C 64 26 70 20 74 14 C 72 26 74 38 68 50 C 60 64 46 68 32 68 Z" fill="#E6391C"/>
+      <text x="82" y="44" font-family="'Plus Jakarta Sans', sans-serif" font-size="32" font-weight="800" fill="#FFFFFF">Piramal</text>
+      <text x="83" y="68" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="600" fill="#94A3B8" letter-spacing="1">Finance</text>
+    </g>
+  </svg>

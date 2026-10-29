@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="100%" height="100%">
+    <g transform="translate(15, 14)">
+      <!-- Serif P -->
+      <text x="8" y="62" font-family="'Playfair Display', 'Times New Roman', serif" font-size="64" font-weight="600" fill="#3B82F6">P</text>
+      <line x1="56" y1="12" x2="56" y2="70" stroke="#64748B" stroke-width="2"/>
+      <text x="68" y="38" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" letter-spacing="1.5">POONAWALLA</text>
+      <text x="68" y="62" font-family="'Plus Jakarta Sans', sans-serif" font-size="19" font-weight="800" fill="#38BDF8" letter-spacing="2">FINCORP</text>
+    </g>
+  </svg>

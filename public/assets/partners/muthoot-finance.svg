@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="100%" height="100%">
+    <g transform="translate(15, 14)">
+      <circle cx="30" cy="36" r="24" fill="#C8102E"/>
+      <circle cx="30" cy="36" r="16" fill="none" stroke="#FACC15" stroke-width="2.5"/>
+      <text x="30" y="42" text-anchor="middle" font-family="serif" font-size="18" font-weight="900" fill="#FACC15">M</text>
+      <text x="68" y="38" font-family="'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="900" fill="#FFFFFF">Muthoot</text>
+      <text x="68" y="58" font-family="'Plus Jakarta Sans', sans-serif" font-size="17" font-weight="600" fill="#F87171">Finance</text>
+    </g>
+  </svg>

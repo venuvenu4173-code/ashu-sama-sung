@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="100%" height="100%">
+    <g transform="translate(15, 14)">
+      <polygon points="12,48 30,16 48,48" fill="#0072CE"/>
+      <polygon points="24,20 42,52 60,20" fill="#F9A01B" opacity="0.9"/>
+      <text x="70" y="36" font-family="'Plus Jakarta Sans', sans-serif" font-size="22" font-weight="900" fill="#FFFFFF">Canara</text>
+      <text x="70" y="56" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="700" fill="#38BDF8">Bank</text>
+    </g>
+  </svg>
