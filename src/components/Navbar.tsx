@@ -17,7 +17,7 @@ export default function Navbar({ onEnquireClick }: NavbarProps) {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 20);
 
-      const sections = ['home', 'about', 'services', 'partners', 'branches', 'contact'];
+      const sections = ['home', 'about', 'services', 'network', 'branches', 'contact'];
       const scrollPosition = window.scrollY + 120;
 
       for (const section of sections) {
@@ -41,7 +41,7 @@ export default function Navbar({ onEnquireClick }: NavbarProps) {
     { label: 'Home', href: '#home', id: 'home' },
     { label: 'About Us', href: '#about', id: 'about' },
     { label: 'Loan Services', href: '#services', id: 'services' },
-    { label: 'Banking Partners', href: '#partners', id: 'partners' },
+    { label: 'Financial Network', href: '#network', id: 'network' },
     { label: 'Branches', href: '#branches', id: 'branches' },
     { label: 'Contact Us', href: '#contact', id: 'contact' },
   ];

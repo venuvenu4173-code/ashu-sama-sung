@@ -8,7 +8,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Services from './components/Services';
-import BankingPartners from './components/BankingPartners';
+import FinancialNetwork from './components/FinancialNetwork';
 import HowItWorks from './components/HowItWorks';
 import WhyChooseUs from './components/WhyChooseUs';
 import Branches from './components/Branches';
@@ -63,8 +63,8 @@ export default function App() {
           {/* Loan Services Section */}
           <Services onSelectService={(title) => handleEnquireClick(title)} />
 
-          {/* Dedicated Banking Partners Section */}
-          <BankingPartners />
+          {/* Animated Banking & Financial Network Section */}
+          <FinancialNetwork />
 
           {/* 4-Step How It Works Process */}
           <HowItWorks />

@@ -74,8 +74,8 @@ export default function Footer({ onOpenLegal, onSelectService }: FooterProps) {
                 </a>
               </li>
               <li>
-                <a href="#partners" className="hover:text-[#B8861B] dark:hover:text-[#DFB75A] transition-colors">
-                  Banking Partners
+                <a href="#network" className="hover:text-[#B8861B] dark:hover:text-[#DFB75A] transition-colors">
+                  Financial Network
                 </a>
               </li>
               <li>

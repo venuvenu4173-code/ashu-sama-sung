@@ -2,10 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 const brandingDir = path.join(__dirname, '../public/assets/branding');
-const partnersDir = path.join(__dirname, '../public/assets/partners');
 
 if (!fs.existsSync(brandingDir)) fs.mkdirSync(brandingDir, { recursive: true });
-if (!fs.existsSync(partnersDir)) fs.mkdirSync(partnersDir, { recursive: true });
 
 // 1. ISHA ASSOCIATES OFFICIAL LOGO (matching isha3.jpeg)
 const ishaLogoSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" width="100%" height="100%">

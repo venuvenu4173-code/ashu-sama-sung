@@ -1,14 +1,3 @@
-export type PartnerCategory = 'Bank' | 'NBFC';
-
-export interface Partner {
-  name: string;
-  slug: string;
-  logo: string;
-  category: PartnerCategory;
-  categoryLabel: string;
-  tagline?: string;
-}
-
 export interface ServiceItem {
   id: string;
   title: string;
